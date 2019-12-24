@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "AHS86L3L87.com.two.wheat",
+                "paths": [ "/openwx/*"]
+            }
+        ]
+    }
+}
